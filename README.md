@@ -1,0 +1,1 @@
+This is a tradition chess game writted with python and perform in pygame. Basic logics including create chess board, draw chess peices on the board, define moving rules of each peices and clear balck and white team, and define winner and loser and reset chess board.
