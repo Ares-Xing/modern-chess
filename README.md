@@ -1,1 +1,1 @@
-This is a tradition chess game writted with python and perform in pygame. Basic logics including create chess board, draw chess peices on the board, define moving rules of each peices and clear balck and white team, and define winner and loser and reset chess board.
+This is a traditional chess game written in Python and built using Pygame. It includes basic logic such as creating the chessboard, drawing the pieces, defining movement rules for each piece, distinguishing between black and white teams, determining the winner and loser, and resetting the board.
